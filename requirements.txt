@@ -53,4 +53,4 @@ pycurl==7.43.0
 pymongo==3.10.1
 gevent
 keras
-tensorflow
+tensorflow==1.15
