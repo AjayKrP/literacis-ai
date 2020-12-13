@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Handwritten-digit-recognition-MNIST" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/digit-recognizer-flask-cnn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lit_digit_recognizer" vcs="Git" />
   </component>
 </project>

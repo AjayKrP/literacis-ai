@@ -1,3 +1,5 @@
+scipy
+keras
 acme==0.31.0
 alembic==1.4.2
 asn1crypto==0.22.0
@@ -5,13 +7,15 @@ astroid==2.3.3
 attrs==19.3.0
 beautifulsoup4==4.4.1
 blinker==1.3
+tensorflow
 boto3==1.12.9
 botocore==1.15.9
 certbot==0.31.0
 certbot-nginx==0.31.0
 certifi==2017.4.17
 chardet==3.0.4
-Flask==0.12.1
+Flask==1.1.2
+seaborn
 Flask-Cors==3.0.8
 flask-marshmallow==0.13.0
 Flask-Migrate==2.5.3
@@ -34,7 +38,7 @@ Jinja2==2.11.1
 jmespath==0.9.5
 josepy==1.1.0
 jsonschema==3.2.0
-numpy==1.18.5
+numpy==
 pandas==0.24.2
 parsedatetime==2.4
 pbr==1.8.0
@@ -48,3 +52,10 @@ pyasn1==0.1.9
 pycups==1.9.73
 pycurl==7.43.0
 pymongo==3.10.1
+gevent
+gunicorn
+keras
+numpy
+h5py
+pillow
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0-cp27-none-linux_x86_64.whl
