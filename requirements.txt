@@ -8,5 +8,3 @@ h5py
 numpy
 Pillow
 gevent
-keras
-tensorflow==1.15
