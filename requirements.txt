@@ -9,3 +9,6 @@ numpy
 Pillow
 gevent
 requests
+bs4
+selenium
+pandas
